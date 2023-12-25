@@ -3,9 +3,9 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-<a href='https://www.neuroinformaticslab.com/'>Neuro Informatics Lab</a>,  
-<a href='https://vida.engineering.nyu.edu/'>VIDA Lab</a>Address,
-<a href='https://game.engineering.nyu.edu/'>Game Inovation Lab</a>
+<a href='#'>Neuro Informatics Lab</a>,  
+<a href='#'>VIDA Lab</a>Address,
+<a href='#'>Game Inovation Lab</a>
 
 profile:
   align: right
