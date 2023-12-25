@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>*Michael.Middleton*@nyu.edu</p>
-    <p>Denver, *Colorado*</p>
-    <p>Brooklyn, *New York<*/p>
+    <p><strong>Michael</strong>.<strong>Middleton</strong>*@nyu.edu</p>
+    <p>Denver, <strong>Colorado</strong></p>
+    <p>Brooklyn, <strong>New York</strong></p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
