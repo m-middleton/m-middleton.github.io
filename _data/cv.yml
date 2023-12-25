@@ -2,28 +2,22 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Michael J. Middleton
     - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: 30th June 1997
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Computer Science (PhD)
+      institution: New York University, New York, NY
+      year: 2023 - 2028 (Expected)
       description:
         - Description 1.
         - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Computer Science (BSc)
+      institution: University of Colorado, Colorado Springs, CO
+      year: 2020
       description:
         - Description 1.
         - Description 2.
@@ -31,67 +25,44 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Applied AI Software Engineer and Researcher
+      institution: Northrop Grumman, Aurora, CO
+      year: August 2021 - Current
       description:
-        - Description 1.
-        - Description 2.
+        - Lead developer - perceptually-enabled task guidance for co-pilots
+        - Research/Development in swarm robotics and human-robot interaction
+        - Research/Development in generative planning using grammatical evolution and mixed-effects regression
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+    - title: Software Engineer
+      institution: Northrop Grumman, Colorado Springs, CO
+      year: June 2019 - August 2021
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Developer doing scrum style development on a large C++ and java software package
+        - Created and integrated test automation tools for the entire system
+        - Set up and maintained a Solaris development lab and CI/CD pipeline
+        - Unit testing for a large software package written in C++ and Java
+    - title: Software Engineer Intern
+      institution: Northrop Grumman, Redondo Beach, CA
+      year: June 2020 - August 2020
       description:
+        - Research and develop artificial intelligence mission planning techniques
+        - Apply information gain optimization techniques to determine best sensor in given situations
+        - Develop a simulation environment for sensor probability projections and target location using adaptive tile encoding
+        - Develop a proposal and simulation for an automated wildfire identification and suppression system 
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - title: Research Assistant
+      institution: University of Colorado, Colorado Springs, CO
+      year: 2019
+      description:
+        - Researched a particle swarm optimization technique for use in 3D chromosome and genome reconstruction
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Brain-Computer Interfaces
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - How we can use many-modalities to improve neuroimaging signal and lower the barrier to entry for BCI
+        - How we can use brain-computer interfaces to improve procedural-content generation
