@@ -2,10 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: >
-<a href='#'>Neuro Informatics Lab</a>,  
-<a href='#'>VIDA Lab</a>Address,
-<a href='#'>Game Inovation Lab</a>
+subtitle: plz
 
 profile:
   align: right
@@ -16,10 +13,10 @@ profile:
     <p>New York City, New York</p>
     <p>Michael.Middleton@nyu.edu</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+news: true # includes a list of news items
+latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 I am a first year PhD student at NYU interested in the intersection between procedural content generation and neuroimaging. I am advised by Erdem Varol, Claudio Silva, and Julian Togellius.
