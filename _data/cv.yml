@@ -58,7 +58,7 @@
         - title: Information gain optimization
           contents:
             - Develop adaptive tile encoding algorithm for sensor probability projections and target locations
-        -title: Simulation development
+        - title: Simulation development
           contents:
             - Develop a proposal and simulation for an automated wildfire identification and suppression system 
 
