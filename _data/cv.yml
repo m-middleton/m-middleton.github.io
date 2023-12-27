@@ -13,7 +13,7 @@
       institution: New York University, New York, NY
       year: Sep 2023 - 2028
       description:
-        - Focus in Computation Neuroscience and Procedural Content Generation
+        - Focus in Computational Neuroscience and Procedural Content Generation
     - title: Computer Science (BSc)
       institution: University of Colorado, Colorado Springs, CO
       year: Dec 2020
@@ -31,7 +31,7 @@
   contents:
     - title: Applied AI Software Engineer and Researcher
       institution: Northrop Grumman, Aurora, CO
-      year: Aug 2021 - Current
+      year: Aug 2021 - Cur
       description:
         - title: Adaptive VR/AR Tasking guidance
           contents:
@@ -53,17 +53,17 @@
             - Set up and maintained a Solaris development lab and CI/CD pipeline
     - title: Software Engineer Intern
       institution: Northrop Grumman, Redondo Beach, CA
-      year: Jun 2020-Aug 2020
+      year: Summer 2020
       description:
         - title: Information gain optimization
           contents:
             - Develop adaptive tile encoding algorithm for sensor probability projections and target locations
         - title: Simulation development
           contents:
-            - Develop a proposal and simulation for an automated wildfire identification and suppression system 
+            - Develop a simulation for an automated wildfire identification and suppression system 
 
     - title: Research Assistant
       institution: University of Colorado, Colorado Springs, CO
-      year: Feb 2019-Jun 2019
+      year: Spring 2019
       description:
         - Develop a particle swarm optimization technique for use in 3D chromosome and genome reconstruction
