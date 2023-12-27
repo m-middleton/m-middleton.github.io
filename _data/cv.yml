@@ -11,12 +11,12 @@
   contents:
     - title: Computer Science (PhD)
       institution: New York University, New York, NY
-      year: 2023 - 2028
+      year: Sep 2023 - 2028
       description:
         - Focus in Computation Neuroscience and Procedural Content Generation
     - title: Computer Science (BSc)
       institution: University of Colorado, Colorado Springs, CO
-      year: 2020
+      year: Dec 2020
 
 - title: Academic Interests
   type: nested_list
@@ -51,6 +51,16 @@
           contents:
             - Created and integrated first itteration of test automation tools
             - Set up and maintained a Solaris development lab and CI/CD pipeline
+    - title: Software Engineer Intern
+      institution: Northrop Grumman, Redondo Beach, CA
+      year: Jun 2020-Aug 2020
+      description:
+        - title: Information gain optimization
+          contents:
+            - Develop adaptive tile encoding algorithm for sensor probability projections and target locations
+        -title: Simulation development
+          contents:
+            - Develop a proposal and simulation for an automated wildfire identification and suppression system 
 
     - title: Research Assistant
       institution: University of Colorado, Colorado Springs, CO
