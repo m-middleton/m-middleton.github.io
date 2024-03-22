@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-First itteration of the website! :sparkles: :smile:
+First itteration of website! :triumph: :bowtie:
