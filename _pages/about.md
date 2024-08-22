@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     Michael.Middleton@nyu.edu
-    Denver, Colorado
+    Denver, Colorado;
     Brooklyn, New York
 
 news: true # includes a list of news items
