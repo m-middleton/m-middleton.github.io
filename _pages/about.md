@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD student at the University of Colorado Boulder, advised by Dr. Leanne Hirshfield.
+I am a PhD student at the University of Colorado Boulder, advised by Prof. Leanne Hirshfield.
 
 My work sits at the intersection of neuroscience, human factors, and aviation. I am especially interested in three things: studying the brain at an idiographic, person centered level; understanding how high performance individuals think and perform under pressure; and using passive neuroimaging to build adaptive human computer interfaces that respond to a person’s cognitive state in real time.
 
